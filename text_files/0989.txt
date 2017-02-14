@@ -1,0 +1,27 @@
+Двигатели, мкпп, акпп, кузовщина для OPEL и других иномарок без пробега по РФ
+
+Audi. Ауди ( 100 A3 A4 A5 A6 A6 A8 Q3 Q5 Q7 )
+BMW. БМВ (116 118 120 125 130 M1 ) BMW (318 320 323 325 328 330 335 M3) BMW (520 523 523 528 530 535 540 M5) BMW (730 735 740 745 750 760) BMW (X1 X3 X5 X6)
+Chevrolet. Шевроле (Spark Aveo Cruze Orlando Captiva Tahoe)
+Citroen. Ситроен( c1 C3 c4 c5 C Elysee Berlingo Picasso Xsara Saxo)
+Fiat. Фиат (500 Bravo Doblo Grande Punto Idea Marea Palio Panda Stilo Sedici)
+Ford. Форд (Fiesta Fusion Focus Kuga Mondeo Galaxy C-max S-max Ranger )
+Honda. Хонда (Accord Civic CR-V HR-V Fit Jazz Pilot)
+Hyundai. Хендай (Accent Solaris i20 i30 i40 ix35 Elantra Getz H1 Matrix Santa FE Sonata Trajet Tuson)
+Kia. Киа (Carens Carnival Ceed Cerato Claruc Magentis Opirus Picanto Rio Sephia Shuma Sorento Soul Sportage Spectra )
+Land Rover. Ленд Ровер (90 110 Defender Discovery Freelander Range Rover)
+Lexus. Лексус (ES GS IS LS RX SC)
+Mazda. Мазда (2 323 5 6 626 BT-50 CX-7 CX-5 Demio Mpv MX Xedos)
+Mercedes. Мерседес (190 A B C CLK CLS G GL GLK M ML R S SL Sprinter Vario Viano Vito)
+Mitsubishi. Митцубиши ( Carisma Colt Eclipce Galant Grandis L200 Lancer Outlander Pajero Sigma Space Runner Space Star Space Wagon Starion)
+Nissan. Нисан (350Z Almera Maxima Micra Murano Navara Note Pathfinder Patrol Primera Qashqai Sunny Terrano Tiida Teana X-Trail)
+Opel. Опель (Astra Combo Corsa Frontera Insignia Meriva Monterey Movano Omega Sintra Tigra Vectra Vivaro Zafira)
+Peugeot. Пежо (106 107 205 206 207 305 306 307 308 4007 407 405 406 505 607 807 806 Boxer Expert Partner)
+Renault. Рено (19 Clio Espace Scenic Kangoo Laguna Master Megane Modus Trafic Twingo)
+Saab. Сааб 
+Skoda. Шкода
+Subaru. Субару
+Suzuki. Сузуки
+Toyota. Тоета
+Volkswagen. Фольксваген
+Volvo. Вольво

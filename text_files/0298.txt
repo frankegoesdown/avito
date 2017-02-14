@@ -1,0 +1,63 @@
+за взаимовыгодную продажу звоните 
+
+новый причина продажи  не пригодился! 
+•	2 входа и 2 выхода
+•	16 легендарных ревербераторов Lexicon
+•	Дилэйи и эффекты модуляции Lexicon
+•	Компрессия и дэ-эссер dbx
+•	Регулятор гейна входа для стерео входов
+•	Интуитивная навигация и редактирование, благодаря большому жидкокристаллическому дисплею, вращающемуся регулятору страницы/выбора, 3 регулятора основных параметров и клавиши активации «Exit», «Tempo» и «Bypass» 
+•	5 опций маршрутизации эффекта
+•	99 заводских и 99 пользовательских программ
+•	Свойство "Hardware Plug-In" с программными плагинами VST и Audio Units
+•	Программное обеспечение MX-Edit Editor/Librarian
+•	Цифровой выход и вход S/PDIF
+•	Частота дискретизации 48 кГц/44,1 кГц, 24 бита
+•	Джек для подключения ножного переключателя 1/4’’
+•	MIDI IN и THRU
+•	Входы и выходы: XLR и сбалансированный 1/4" TRS 
+
+Ревербераторы
+
+•	Small Hall
+•	Large Hall
+•	Small Plate
+•	Large Plate
+•	Room
+•	Chamber
+•	Gated
+•	Reverse
+•	Vocal Hall
+•	Vocal Plate
+•	Drum Hall
+•	Drum Plate
+•	Ambience
+•	Studio
+•	Arena
+•	Spring
+
+Дилэйи
+
+•	Studio Delay
+•	Mono Delay
+•	Tape Delay
+•	Pong Delay
+•	Mod Delay
+•	Reverse Delay
+•	2-Tap Delay
+
+Динамические эффекты DBX
+
+•	Compressor
+•	De-Esser
+
+Эффекты модуляции
+
+•	Chorus
+•	Flanger
+•	Phaser
+•	Tremolo / Pan
+•	Rotary
+•	Vibrato
+•	Pitch Shift
+•	Detune

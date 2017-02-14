@@ -1,0 +1,40 @@
+Шлифовальные станки:
+-с ЧПУ
+-круглошлифовальные
+-плоскошлифовальные
+-с большим столом
+ SPECIFICATION 
+ITEMS	UNIT	520MB	520HA	520A	520 2NC
+Capacity	Working Surface of Table (Length * Width)	mm	510*200	560*200	560*200	560*200
+	Maximum travel (Longitudinal * Cross Width)	mm	540*250	640*250	640*250	640*230
+	Distance from Table Surface to Wheel Center	mm	490	490	490	460
+	Electro-Magnetic Chuck (L * W * H)	mm	450*200
+350*150	500*200*100	500*200*100	500*200*100
+Table	T-Slot (Width * Number)	mm*no	13*1	13*1	13*1	13*1
+	Traverse Speed Range (per min)	m/min	-	0.5~25	0.5~25	0.5~25
+	Table Traverse per rev. of Hand Wheel	mm	110	100	100	100
+	Cross Movement-Manual	Hand Feed per Revolution	mm	5	5	5	0.1, 1, 10
+		Graduation of Hand Wheel	mm	0.02	0.02	0.02	0.001, 0.01, 0.1
+	Cross Movement-Hydraulic	Intermittent Feed	mm	-	-	0.5~20	0.001~20
+		Continuous Feed	m/min	-	-	100~1000	0.001~1000
+Grinding Head	Automatic Downfeed per Table Stroke	mm	-	-	0.002~0.03	0.001~0.03
+	Manual Downfeed	Hand Feed per Revolution	mm	2	2	1	0.1, 1, 10
+		Graduation of Hand Wheel	mm	0.005	0.005	0.005	0.001, 0.01, 0.1
+	Vertical Rapid Feed	mm/min	-	-	670	1250
+Grinding Wheel	Diameter * Width * Bore	mm	Ø180*10~
+20*Ø31.75	Ø180*10~
+20*Ø31.75	Ø180*10~
+20*Ø31.75	Ø180*10~
+20*Ø31.75
+	Speed (50 / 60Hz)	rpm	2875/3450	2875/3450	2875/3450	2875/3450
+Motor	Grinding Wheel Spindle	kw/p	1.5(2.2)/2	1.5(2.2)/2	1.5(2.2)/2	1.5(2.2)/2
+	Hydraulic Pump	kw/p	-	1.5/4	1.5/4	1.5/4
+	Vertical Rapid Feed & Downfeed	kw/p	-	-	0.4/4 	0.5 AC Servo
+	Cross Feed	kw	-	-	-	0.5 AC Servo
+Floor Space ( Length * Width * Height)	mm	2100*1360
+*1830	2200*1360*
+1800	2200*1600*
+1800	2200*1600*
+2350
+Weight (approx)	kg 	1500	1600	1800	2300
+Wheel Cover Model No 	DGS-520

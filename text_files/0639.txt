@@ -1,0 +1,35 @@
+Подходит для:
+Chrysler Crossfire 3.2L V6 SOHC 18 клапан, 
+Dodge Dakota 4x2, 3.7L V6, 4-атаки. Автоматическая VLP 42RLE Транс LARAMIE Crew Cab	2011
+Dodge Dakota 4x2, 3.7L V6, 4-атаки. Автоматическая VLP 42RLE Транс ST Crew Cab	2011
+Dodge Dakota 4x2, 3.7L V6, 4-атаки. Автоматическая VLP 42RLE Транс ST EXTENDED CAB	2011
+Dodge Dakota 4x2, 3.7L V6, 4-атаки. Автоматическая VLP 42RLE Транс SXT Crew Cab	2011
+Dodge Dakota 4x2, 3.7L V6, 4-атаки. Автоматическая VLP 42RLE Транс SXT РАСПРОСТРАНЕНИЯ CAB	2011
+Dodge Dakota 4x2, 4.7L V8, 5-атаки Автоматический 545RFE LARAMIE Crew Cab	2011
+Dodge Dakota 4x2, 4.7L V8, 5-атаки Автоматический 545RFE ST Crew Cab	2011
+Dodge Dakota 4x2, 4.7L V8, 5-атаки Автоматический 545RFE ST EXTENDED CAB	2011
+Dodge Dakota 4x2, 4.7L V8, 5-атаки Автоматический 545RFE SXT Crew Cab	2011
+Dodge Dakota 4x2, 4.7L V8, 5-атаки Автоматический 545RFE SXT РАСПРОСТРАНЕНИЯ CAB	2011
+Dodge Dakota 4x4, 3.7L V6, 4-атаки. Автоматическая VLP 42RLE Транс LARAMIE Crew Cab	2011
+Dodge Dakota 4x4, 3.7L V6, 4-атаки. Автоматическая VLP 42RLE Транс ST Crew Cab	2011
+Dodge Dakota 4x4, 3.7L V6, 4-атаки. Автоматическая VLP 42RLE Транс ST EXTENDED CAB	2011
+Dodge Dakota 4x4, 3.7L V6, 4-атаки. Автоматическая VLP 42RLE Транс SXT Crew Cab	2011
+Dodge Dakota 4x4, 3.7L V6, 4-атаки. Автоматическая VLP 42RLE Транс SXT РАСПРОСТРАНЕНИЯ CAB	2011
+Dodge Dakota 4x4, 4.7L V8, 5-атаки Автоматический 545RFE LARAMIE Crew Cab	2011
+Dodge Dakota 4x4, 4.7L V8, 5-атаки Автоматический 545RFE ST Crew Cab	2011
+Dodge Dakota 4x4, 4.7L V8, 5-атаки Автоматический 545RFE ST EXTENDED CAB	2011
+Dodge Dakota 4x4, 4.7L V8, 5-атаки Автоматический 545RFE SXT Crew Cab	2011
+Dodge Dakota 4x4, 4.7L V8, 5-атаки Автоматический 545RFE SXT РАСПРОСТРАНЕНИЯ CAB	2011
+Dodge Dakota 4x4, 4.7L V8, 5-атаки Автоматический 545RFE TRX Crew Cab	2011
+Dodge Nitro 4x2, 3.7L V6, 4-атаки. Автоматическая VLP 42RLE Транс HEAT	2011
+Dodge Nitro 4x2, 3.7L V6, 4-атаки. Автоматическая VLP 42RLE Транс ТА	2011
+Dodge Nitro 4x2, 3.7L V6, 4-атаки. Автоматическая VLP 42RLE Транс 
+Jeep Grand Cherokee 4x2, 3.7L V6, 5-ступенчатая автоматическая W5A580 LAREDO	2010
+Jeep Grand Cherokee 4x2, 3.7L V6, 5-ступенчатая автоматическая W5A580 ограниченной	2010
+Jeep Grand Cherokee 4x2, 5.7L V8 HEMI MDS VCT, 5-атаки Автоматический 545RFE LAREDO	2010
+Jeep Grand Cherokee 4x2, 5.7L V8 HEMI MDS VCT, 5-атаки Автоматический 545RFE ограниченной	2010
+Jeep Grand Cherokee 4x4, 3.7L V6, 5-ступенчатая автоматическая W5A580 LAREDO	2010
+Jeep Grand Cherokee 4x4, 3.7L V6, 5-ступенчатая автоматическая W5A580 ограниченной	2010
+Jeep Grand Cherokee 4x4, 5.7L V8 HEMI MDS VCT, 5-атаки Автоматический 545RFE LAREDO	2010
+Jeep Grand Cherokee 4x4, 5.7L V8 HEMI MDS VCT, 5-атаки Автоматический 545RFE ограниченной	2010
+Jeep Grand Cherokee STR8, 6.1L SRT HEMI V8, 5-ступенчатая автоматическая 2010

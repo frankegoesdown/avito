@@ -1,0 +1,2 @@
+class TxtDirectoryException(Exception):
+    pass
